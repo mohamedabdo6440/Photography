@@ -705,6 +705,7 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  cursor: pointer;
 }
 
 .gallery_section .gallery_container .box.b1 .img-box {
